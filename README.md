@@ -13,6 +13,8 @@
 ```javascript
 const alex = {
     pronouns: "He" | "Him",
+    cloud: ["AWS", "Microsoft Azure", "Google Cloud Platform"]
+    devops: ["kubernetes", "git", "docker", "jenkins"]
     code: ["C", "C++", "Python", "Java", "VHDL"],
     IDEs: ["Eclipe", "Visual Studio Code", "Quartus Prime", "Vivado HLS", "Spyder3"]
     currentFocus: "Computer Engineer Degree",
