@@ -17,7 +17,7 @@ const alex = {
     devops: ["kubernetes", "git", "docker", "jenkins"],
     code: ["C", "C++", "Python", "Java", "VHDL"],
     IDEs: ["Eclipe", "Visual Studio Code", "Quartus Prime", "Vivado HLS", "Spyder3"]
-    currentFocus: "Computer Engineer Degree",
+    currentFocus: "Becoming in a DevOps Engineer",
 };
 ```
 
